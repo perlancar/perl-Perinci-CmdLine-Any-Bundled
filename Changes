@@ -1,11 +1,19 @@
 Revision history for Perinci-CmdLine-Any-Bundled
 
+0.05    2015-05-15 (PERLANCAR)
+
+	- No functional changes.
+
+	- [build] Rebuild with newer version of
+          Dist::Zilla::Plugin::PERLANCAR::AddDeps (0.05).
+
+
 0.04    2015-05-15 (PERLANCAR)
 
 	- No functional changes.
 
 	- [build] Rebuild with newer version of
-          Dist::Zilla::Plugin::PERLANCAR::AddDeps (0.04).
+          Dist::Zilla::Plugin::PERLANCAR::AddDeps (0.03).
 
 
 0.03    2015-05-15 (PERLANCAR)
