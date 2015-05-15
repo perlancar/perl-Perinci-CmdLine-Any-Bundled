@@ -1,5 +1,10 @@
 Revision history for Perinci-CmdLine-Any-Lumped
 
+0.09    2015-05-15 (PERLANCAR)
+
+        - Update POD.
+
+
 0.08    2015-05-15 (PERLANCAR)
 
         - [Bugfix] Forgot to update package declaration name.
