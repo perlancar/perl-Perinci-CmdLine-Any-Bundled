@@ -1,5 +1,12 @@
 Revision history for Perinci-CmdLine-Any-Bundled
 
+0.02    2015-05-15 (PERLANCAR)
+
+	- No functional changes.
+
+	- [dzil] Tweak dist.ini, exclude *~ files.
+
+
 0.01     2015-05-15 (PERLANCAR)
 
          - First release.
