@@ -1,6 +1,6 @@
 package Perinci::CmdLine::Any::Lumped;
 
-our $VERSION = "0.07";
+our $VERSION = "0.08";
 
 # LUMPED_MODULES
 # LUMPED_DISTS
@@ -15,7 +15,7 @@ Perinci::CmdLine::Any::Bundled - Perinci::CmdLine::Any (bundled dist)
 
 =head1 VERSION
 
-0.07
+0.08
 
 
 =head1 DESCRIPTION
