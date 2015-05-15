@@ -1,6 +1,6 @@
 Revision history for Perinci-CmdLine-Any-Lumped
 
-0.07    2015-05-15 (PERLANCAR) (unreleased)
+0.07    2015-05-15 (PERLANCAR)
 
         - Rename dist from Perinci-CmdLine-Any-{Bundled,Lumped} because "bundle"
           has previous meaning in CPAN. We choose a new term "lump".
