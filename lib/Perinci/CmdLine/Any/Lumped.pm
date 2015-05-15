@@ -1,4 +1,4 @@
-package Perinci::CmdLine::Any::Bundled;
+package Perinci::CmdLine::Any::Lumped;
 
 our $VERSION = "0.07";
 
