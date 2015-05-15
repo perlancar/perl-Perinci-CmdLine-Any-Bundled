@@ -6,11 +6,11 @@ our $VERSION = "0.08";
 # LUMPED_DISTS
 
 1;
-# ABSTRACT: Perinci::CmdLine::Any (bundled dist)
+# ABSTRACT: Perinci::CmdLine::Any (lump dist)
 
 =head1 NAME
 
-Perinci::CmdLine::Any::Bundled - Perinci::CmdLine::Any (bundled dist)
+Perinci::CmdLine::Any::Bundled - Perinci::CmdLine::Any (lump dist)
 
 
 =head1 VERSION
@@ -21,7 +21,7 @@ Perinci::CmdLine::Any::Bundled - Perinci::CmdLine::Any (bundled dist)
 =head1 DESCRIPTION
 
 This distribution contains L<Perinci::CmdLine::Any> as well as some (unindexed)
-deps bundled inside it. You can depend on Perinci::CmdLine::Any::Bundled instead
+deps bundled inside it. You can depend on Perinci::CmdLine::Any::Lumped instead
 of Perinci::CmdLine::Any for fewer deps and faster CPAN installation.
 
 
