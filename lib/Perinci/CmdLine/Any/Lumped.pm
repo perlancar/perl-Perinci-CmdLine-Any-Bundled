@@ -25,6 +25,15 @@ deps bundled inside it. You can depend on Perinci::CmdLine::Any::Lumped instead
 of Perinci::CmdLine::Any for fewer deps and faster CPAN installation.
 
 
+=head1 LUMPED MODULES
+
+# LUMPED_MODULES_POD
+
+=head1 LUMPED DISTS
+
+# LUMPED_DISTS_POD
+
+
 =head1 SEE ALSO
 
 L<Perinci::CmdLine::Lite>
